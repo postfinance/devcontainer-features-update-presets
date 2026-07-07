@@ -1,0 +1,9 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "requireConfig": "ignored",
+    "onboarding": false,
+    "enabledManagers": [
+        "custom.regex",
+        "devcontainer"
+    ]
+}

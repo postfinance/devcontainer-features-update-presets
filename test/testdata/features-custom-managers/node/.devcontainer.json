@@ -1,0 +1,12 @@
+{
+  "name": "custom-managers-node",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/node:1": {
+      "version": "22.5.1",
+      "npmVersion": "10.8.2",
+      "yarnVersion": "1.22.22",
+      "pnpmVersion": "9.6.0",
+      "corepackVersion": "0.29.3"
+    }
+  }
+}

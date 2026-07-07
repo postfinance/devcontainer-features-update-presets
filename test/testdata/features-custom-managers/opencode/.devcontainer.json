@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-opencode",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/opencode:1": {
+      "version": "0.4.0"
+    }
+  }
+}

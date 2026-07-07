@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-claude-code",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/claude-code:1": {
+      "version": "0.7.5"
+    }
+  }
+}

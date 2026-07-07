@@ -1,0 +1,9 @@
+{
+  "name": "custom-managers-browsers",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/browsers:1": {
+      "chromeVersion": "126.0.6478.182",
+      "firefoxVersion": "128.0.3"
+    }
+  }
+}

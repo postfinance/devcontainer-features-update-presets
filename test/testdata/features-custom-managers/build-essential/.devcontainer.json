@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-build-essential",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/build-essential:1": {
+      "version": "12.10"
+    }
+  }
+}

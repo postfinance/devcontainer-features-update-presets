@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-nginx",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/nginx:1": {
+      "version": "release-1.27.1"
+    }
+  }
+}

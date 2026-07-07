@@ -1,0 +1,9 @@
+{
+  "name": "custom-managers-rust",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/rust:1": {
+      "version": "1.80.0",
+      "rustupVersion": "1.27.1"
+    }
+  }
+}

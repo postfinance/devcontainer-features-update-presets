@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-jfrog-cli",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/jfrog-cli:1": {
+      "version": "2.59.0"
+    }
+  }
+}

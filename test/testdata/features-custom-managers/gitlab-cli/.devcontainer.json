@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-gitlab-cli",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/gitlab-cli:1": {
+      "version": "1.42.0"
+    }
+  }
+}
