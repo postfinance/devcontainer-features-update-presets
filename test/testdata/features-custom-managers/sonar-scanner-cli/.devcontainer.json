@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-sonar-scanner-cli",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/sonar-scanner-cli:1": {
+      "version": "6.1.0.4477"
+    }
+  }
+}

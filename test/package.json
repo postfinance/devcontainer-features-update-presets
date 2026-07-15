@@ -1,0 +1,7 @@
+{
+  "name": "renovate-local-test",
+  "private": true,
+  "devDependencies": {
+    "renovate": "43.242.2"
+  }
+}

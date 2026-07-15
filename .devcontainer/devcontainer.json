@@ -1,0 +1,25 @@
+{
+    "name": "Renovate Test Ground",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "features": {
+        "ghcr.io/postfinance/devcontainer-features/node:1.0.0": {
+            "version": "24.16.0",
+            "npmVersion": "included",
+            "yarnVersion": "none",
+            "pnpmVersion": "none"
+        },
+        "ghcr.io/postfinance/devcontainer-features/go:1.0.0": {
+            "version": "1.26.4"
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "DavidAnson.vscode-markdownlint",
+                "golang.go"
+            ]
+        }
+    }
+}

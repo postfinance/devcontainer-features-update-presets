@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-dotnet",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/dotnet:1": {
+      "version": "8.0.7"
+    }
+  }
+}

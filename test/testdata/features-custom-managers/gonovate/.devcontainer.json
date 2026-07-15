@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-gonovate",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/gonovate:1": {
+      "version": "0.8.3"
+    }
+  }
+}

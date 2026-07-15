@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-vault-cli",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/vault-cli:1": {
+      "version": "1.17.2"
+    }
+  }
+}

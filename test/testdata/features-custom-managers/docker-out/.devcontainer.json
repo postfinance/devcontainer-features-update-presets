@@ -1,0 +1,10 @@
+{
+  "name": "custom-managers-docker-out",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/docker-out:1": {
+      "version": "27.1.0",
+      "composeVersion": "2.29.2",
+      "buildxVersion": "0.16.2"
+    }
+  }
+}

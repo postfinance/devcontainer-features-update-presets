@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-git-lfs",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/git-lfs:1": {
+      "version": "3.5.1"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-go",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/go:1": {
+      "version": "1.23.1"
+    }
+  }
+}

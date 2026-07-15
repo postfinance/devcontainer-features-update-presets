@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-zig",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/zig:1": {
+      "version": "0.13.0"
+    }
+  }
+}

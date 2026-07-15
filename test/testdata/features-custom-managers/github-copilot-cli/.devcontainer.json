@@ -1,0 +1,8 @@
+{
+  "name": "custom-managers-github-copilot-cli",
+  "features": {
+    "ghcr.io/postfinance/devcontainer-features/github-copilot-cli:1": {
+      "version": "0.0.31"
+    }
+  }
+}
